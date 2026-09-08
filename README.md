@@ -97,5 +97,6 @@ The dashboard helps identify:
 - Automated data pipelines
 
 📄 Project Documentation
+
 The detailed project synopsis is available in the repository as a PDF.
 
