@@ -1,9 +1,11 @@
 📌 Uber Ride Booking Analysis Dashboard
 
 📖 Project Overview
+
 An interactive Excel dashboard created to analyse Uber ride booking data and understand booking performance, revenue, vehicle usage, cancellations, pickup locations, ride distance, and ratings.
 
 🎯 Objectives
+
 • Analyse overall booking performance
 • Compare bookings and revenue by vehicle type
 • Analyse completed and cancelled bookings
@@ -12,12 +14,14 @@ An interactive Excel dashboard created to analyse Uber ride booking data and und
 • Create an interactive Excel dashboard
 
 📊 Dataset
+
 • Records: 150,000
 • Source: Kaggle
 • Tool: Microsoft Excel
 • Data includes: Booking Status, Vehicle Type, Pickup Location, Booking Value, Ride Distance, Driver Rating, Customer Rating, Payment Method and Date
 
 🛠️ Tools & Techniques
+
 • Microsoft Excel
 • Data Cleaning
 • PivotTables
@@ -28,6 +32,7 @@ An interactive Excel dashboard created to analyse Uber ride booking data and und
 • KPI Analysis
 
 📈 Key KPIs
+
 • Total Bookings: 150,000
 • Completed Rides: 93,000
 • Total Revenue: ₹5,18,46,183
@@ -43,6 +48,7 @@ An interactive Excel dashboard created to analyse Uber ride booking data and und
 <img width="1727" height="813" alt="Screenshot 2026-09-22 082816" src="https://github.com/user-attachments/assets/734e0197-49b3-474a-9ba1-dcfde9a47ec2" />
 
 📊 Analysis
+
 • Booking Status Analysis
 • Vehicle Type Analysis
 • Revenue by Vehicle Type
@@ -52,6 +58,7 @@ An interactive Excel dashboard created to analyse Uber ride booking data and und
 • Customer Rating Analysis
 
 💡 Key Insights
+
 • 93,000 bookings were completed out of 150,000.
 • Driver cancellations were higher than customer cancellations.
 • Different vehicle types showed different booking and revenue patterns.
