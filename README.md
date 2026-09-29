@@ -6,17 +6,17 @@ An interactive Excel dashboard created to analyse Uber ride booking data and und
 
 ## 🎯 Objectives
 
-• Analyse overall booking performance
+🔹 Analyse overall booking performance
 
-• Compare bookings and revenue by vehicle type
+🔹 Compare bookings and revenue by vehicle type
 
-• Analyse completed and cancelled bookings
+🔹 Analyse completed and cancelled bookings
 
-• Identify top pickup locations
+🔹 Identify top pickup locations
 
-• Analyse ride distance and ratings
+🔹 Analyse ride distance and ratings
 
-• Create an interactive Excel dashboard
+🔹 Create an interactive Excel dashboard
 
 ## 📊 Dataset
 
