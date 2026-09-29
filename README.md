@@ -20,43 +20,43 @@ An interactive Excel dashboard created to analyse Uber ride booking data and und
 
 ## 📊 Dataset
 
-• Records: 150,000
+📌 Records: 150,000
 
-• Source: Kaggle
+📌 Source: Kaggle
 
-• Tool: Microsoft Excel
+📌 Tool: Microsoft Excel
 
-• Data includes: Booking Status, Vehicle Type, Pickup Location, Booking Value, Ride Distance, Driver Rating, Customer Rating, Payment Method and Date
+📌 Data includes: Booking Status, Vehicle Type, Pickup Location, Booking Value, Ride Distance, Driver Rating, Customer Rating, Payment Method and Date
 
 ## 🛠️ Tools & Techniques
 
-• Microsoft Excel
+💻 Microsoft Excel
 
-• Data Cleaning
+🧹 Data Cleaning
 
-• PivotTables
+📋 PivotTables
 
-• PivotCharts
+📊 PivotCharts
 
-• Slicers
+🎛️ Slicers
 
-• Timeline
+📅 Timeline
 
-• Excel Formulas
+🧮 Excel Formulas
 
-• KPI Analysis
+📈 KPI Analysis
 
 ## 📈 Key KPIs
 
-• Total Bookings: 150,000
+📌 Total Bookings: 150,000
 
-• Completed Rides: 93,000
+🚗 Completed Rides: 93,000
 
-• Total Revenue: ₹5,18,46,183
+💰 Total Revenue: ₹5,18,46,183
 
-• Completion Rate: 62%
+✅ Completion Rate: 62%
 
-• Cancellation Rate: 25%
+❌ Cancellation Rate: 25%
 
 ## 🖼️ Dashboard Preview
 
@@ -68,38 +68,38 @@ An interactive Excel dashboard created to analyse Uber ride booking data and und
 
 ## 📊 Analysis
 
-• Booking Status Analysis
+🔹 Booking Status Analysis
 
-• Vehicle Type Analysis
+🔹 Vehicle Type Analysis
 
-• Revenue by Vehicle Type
+🔹 Revenue by Vehicle Type
 
-• Top 10 Pickup Locations
+🔹 Top 10 Pickup Locations
 
-• Average Ride Distance
+🔹 Average Ride Distance
 
-• Driver Rating Analysis
+🔹 Driver Rating Analysis
 
-• Customer Rating Analysis
+🔹 Customer Rating Analysis
 
 ## 💡 Key Insights
 
-• 93,000 bookings were completed out of 150,000.
+📌 93,000 bookings were completed out of 150,000.
 
-• Driver cancellations were higher than customer cancellations.
+🚘 Driver cancellations were higher than customer cancellations.
 
-• Different vehicle types showed different booking and revenue patterns.
+📊 Different vehicle types showed different booking and revenue patterns.
 
-• Some pickup locations recorded higher booking volumes.
+📍 Some pickup locations recorded higher booking volumes.
 
-• Driver and customer ratings varied across vehicle types.
+⭐ Driver and customer ratings varied across vehicle types.
 
 ## 🎛️ Interactive Features
 
-• Vehicle Type Slicer
+🚗 Vehicle Type Slicer
 
-• Booking Status Slicer
+📋 Booking Status Slicer
 
-• Payment Method Slicer
+💳 Payment Method Slicer
 
-• Date Timeline
+📅 Date Timeline
